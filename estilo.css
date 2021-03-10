@@ -1,0 +1,47 @@
+body{
+    background-color:#f2f2f1;
+}
+
+.formulario{
+    width:400px;
+    margin:auto;
+    padding-top:50px;
+}
+
+.card{
+    border:1px solid black;
+    border-radius:25px;
+    box-shadow:1px 1px 3px black;
+    padding:30px;
+}
+
+.card-top{
+    text-align:center;
+}
+
+.card-top img{
+    width:25%;
+}
+
+.card-top h2{
+    color:red;
+}
+
+.card-group{
+    text-align:center;
+    display:block;
+}
+
+.card-group button{
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:50px;
+    padding-right:50px;
+    background-color:whitesmoke;
+    transition:1s;
+    border-radius:10px;
+}
+
+.card-group button:hover{
+    background-color:#e47373;
+}
